@@ -1,0 +1,16 @@
+appwebb\practica_2\resources\JavaEE8Resource.class
+appwebb\practica_2\Servlets\visualizarImagen.class
+appwebb\practica_2\Servlets\logout.class
+appwebb\practica_2\Modelos\Image.class
+appwebb\practica_2\Servlets\buscarImagen.class
+appwebb\practica_2\DataLayer\ManagerUser.class
+appwebb\practica_2\JAXRSConfiguration.class
+appwebb\practica_2\DataLayer\ManagerDB.class
+appwebb\practica_2\Servlets\modificarImagen.class
+appwebb\practica_2\Servlets\sigin.class
+appwebb\practica_2\Servlets\eliminarImagen.class
+appwebb\practica_2\Servlets\error.class
+appwebb\practica_2\Servlets\login.class
+appwebb\practica_2\Modelos\User.class
+appwebb\practica_2\Servlets\registrarImagen.class
+appwebb\practica_2\DataLayer\ManagerImage.class

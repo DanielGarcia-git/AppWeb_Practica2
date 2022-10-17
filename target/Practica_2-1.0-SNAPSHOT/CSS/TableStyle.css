@@ -1,0 +1,33 @@
+/* 
+    Created on : 15-oct-2022, 19:49:46
+    Author     : dani_
+*/
+
+.table {
+    width: 100%;
+    border: 1px solid black;
+}
+
+th, td {
+    width: 10%;
+    text-align: center;
+    vertical-align: central;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 0.3em;
+}
+
+th {
+    background: rgba(120, 149, 178, 0.9);
+}
+
+.content-table {
+    position: relative;
+    z-index: 1;
+    background: #F5EFE6;
+    max-width: 1500px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}

@@ -1,0 +1,22 @@
+/* 
+    Created on : 11-oct-2022, 17:32:30
+    Author     : Daniel Garcia Estevez
+*/
+
+.form .avance-search {
+  display: none;
+}
+
+.form {
+    position: relative;
+    z-index: 1;
+    background: #F5EFE6;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: left;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+
+
